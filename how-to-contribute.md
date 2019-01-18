@@ -84,6 +84,11 @@ Lots of horrible and horrendous ruby depdencies will be installed.
 
 ## Serve the page
 
-   bundler exec jekyll serve 
+    bundler exec jekyll serve 
 
-Then go to http://127.0.0.1:4000/
+Then go to [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
+
+## Share the joy 
+
+Push your commits back to your repo. Make a pull request against our repo, describe your contribution and we'll publish it on our github page :)
+
