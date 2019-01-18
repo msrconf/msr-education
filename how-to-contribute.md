@@ -86,7 +86,7 @@ Lots of horrible and horrendous ruby depdencies will be installed.
 
     bundler exec jekyll serve 
 
-Then go to [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
+Then go to [http://127.0.0.1:4000/msr-education/](http://127.0.0.1:4000/msr-education/)
 
 ## Share the joy 
 
