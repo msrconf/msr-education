@@ -92,3 +92,6 @@ Then go to [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
 
 Push your commits back to your repo. Make a pull request against our repo, describe your contribution and we'll publish it on our github page :)
 
+## License
+
+Please add your name and contact info to your post and share the post under the CC-BY 4.0 license with the project.
