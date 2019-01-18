@@ -3,7 +3,7 @@ layout: post
 title:  "Theanets Deep Learning Tutorial: MLPs and Regression with Theanets"
 author: Abram Hindle <hindle1@ualberta.ca>
 date:   2019-01-17T17:50:08-07:00
-categories: deeplearning
+categories: deeplearning tutorial
 ---
 
 # Who

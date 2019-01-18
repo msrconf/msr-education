@@ -3,7 +3,7 @@ layout: post
 title:  "Topic Analysis of Issue Tracker issues with LDA Tutorial"
 author: Abram Hindle <hindle1@ualberta.ca>
 date:   2019-01-17 17:24:24 -0700
-categories: LDA
+categories: LDA tutorial
 ---
 
 # Who

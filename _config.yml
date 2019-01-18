@@ -19,7 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   The MSR Education Track hosts Educational Snippets! These are a collection of resources
   that researchers use to teach students and professionals about MSR.
   This instance is the MSR2019 instance!
-baseurl: "" # the subpath of your site, e.g. /blog
+ # baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /msr-education
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: msrconf
 github_username:  msrconf
@@ -29,6 +30,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-relative-links
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
