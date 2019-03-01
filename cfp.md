@@ -13,7 +13,7 @@ Many professors who research MSR also teach MSR. There are numerous graduate cla
 
 ## How can I help?
 
-* If you educate students please browse our educational resources! [http://www.msrconf.org/msr-education/](http://www.msrconf.org/msr-education/])
+* If you educate students please browse our educational resources! [http://www.msrconf.org/msr-education/](http://www.msrconf.org/msr-education/)
 * If you have educational resources to share please write up a brief description and share it with us on github: [https://github.com/msrconf/msr-education/tree/gh-pages](https://github.com/msrconf/msr-education/tree/gh-pages) (Note we use the gh-pages branch for the jekyll based blog!)
 
 ## When is it due by?
